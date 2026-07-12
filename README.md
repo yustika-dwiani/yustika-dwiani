@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Data Analyst | Data Engineer
+### Data Analyst | Data Engineer
 📍I'm based on Jakarta, Indonesia.
 
 Welcome to my Github profile. I'm passionate working with data, help business make decisions accurately and build strong database. I'm always eager to learn and explore new tools and freameworks.
 
-#### Skills
+### Skills
 
 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -33,6 +33,6 @@ Welcome to my Github profile. I'm passionate working with data, help business ma
 <img src="{BadgeURLHere}" />
 <img src="{BadgeURLHere}" /> 
 -->
-#### Connect with Me
+### Connect with Me
 ![www.linkedin.com/in/yustikadwiani](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![yustika.dwiani@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
