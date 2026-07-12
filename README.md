@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Data Analyst | Data Engineer
-📍I'm based on Jakarta, Indonesia.
+
+📍 Jakarta, Indonesia.
+📩 Email : yustika.dwiani@gmail.com
+🔗 linkeind : [yustika dwiani](www.linkedin.com/in/yustikadwiani)
 
 Welcome to my Github profile. I'm passionate working with data, help business make decisions accurately and build strong database. I'm always eager to learn and explore new tools and freameworks.
 
@@ -33,6 +36,3 @@ Welcome to my Github profile. I'm passionate working with data, help business ma
 <img src="{BadgeURLHere}" />
 <img src="{BadgeURLHere}" /> 
 -->
-#### Connect with Me
-![www.linkedin.com/in/yustikadwiani](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![yustika.dwiani@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
