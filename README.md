@@ -6,7 +6,7 @@
 📩 Email : yustika.dwiani@gmail.com\
 🔗 Linkedin : [yustika dwiani](www.linkedin.com/in/yustikadwiani)
 
-Welcome to my Github profile. I'm passionate working with data, help business make decisions accurately and build strong database. I'm always eager to learn and explore new tools and freameworks.
+Welcome to my Github profile. I'm passionate working with data, help business make decisions accurately and build strong database. I'm always eager to learn and explore new tools and frameworks.
 
 ### Skills
 
